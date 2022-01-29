@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+button {
+  padding: 15px 20px;
+  background-color: blue;
+  color: white;
+  border: 2px solid rebeccapurple;
+  cursor: pointer;
+  border-radius: 5px;
+  text-transform: uppercase;
+  outline: none;
+}
+
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+
